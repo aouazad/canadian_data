@@ -21,4 +21,21 @@
 - [Du Proprio](https://duproprio.com/en) is a direct seller to buyer website that bypasses real estate brokers.
 - [Centris](https://www.centris.ca).
 
+### Census Data
+
+- [Census 2016 Profile data](https://www12.statcan.gc.ca/census-recensement/2016/dp-pd/prof/details/download-telecharger/comp/page_dl-tc.cfm?Lang=E)
+- [Census 2011, 2006, 2001](https://www12.statcan.gc.ca/census-recensement/2011/dp-pd/prof/details/download-telecharger/comprehensive/comp-csv-tab-dwnld-tlchrgr.cfm?Lang=E#tabs2011]
+- [Census 2011 Shapefiles](https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2011-eng.cfm)
+- [Census 2016 Shapefiles](https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-2016-eng.cfm)
+- [Census 2006 Shapefiles](https://www12.statcan.gc.ca/census-recensement/2006/geo/bound-limit-eng.cfm)
+- [All shapefiles in one place](https://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/bound-limit-eng.cfm)
+
+## National
+
+- [Atlas of Canada](https://open.canada.ca/en/open-data)
+
+### Transportation Networks
+
+- [Railway network](https://open.canada.ca/data/en/dataset/c751172b-37d5-5115-92f0-6652f97b1743)
+
 
