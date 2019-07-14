@@ -39,3 +39,9 @@
 - [Railway network](https://open.canada.ca/data/en/dataset/c751172b-37d5-5115-92f0-6652f97b1743)
 
 
+### Election data
+
+- [Results of General Election, by Electoral District](https://www.elections.ca/content.aspx?section=ele&dir=pas&document=index&lang=e)
+
+
+
