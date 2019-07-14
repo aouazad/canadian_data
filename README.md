@@ -42,6 +42,7 @@
 ### Election data
 
 - [Results of General Election, by Electoral District](https://www.elections.ca/content.aspx?section=ele&dir=pas&document=index&lang=e)
+- [Canadian Election Database](http://canadianelectionsdatabase.ca/PHASE5/?p=home) at the University of Calgary.
 
 
 
